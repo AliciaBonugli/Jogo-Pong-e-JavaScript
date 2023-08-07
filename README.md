@@ -5,7 +5,7 @@ Projeto de desenvolvimento do jogo Pong com apoio da Alura.
 | -----------| ---------------- |
 |:video_game: Nome | "Jogo Pong" |
 |:books: Linguagem| JavaScript |
-|:star2: URL | https://editor.p5js.org/aliciagbonugli/full/TrZb32nm_ |
+|:star2: URL | https://editor.p5js.org/aliciagbonugli/full/TrZb32nm |
 |:pencil2: Curso | https://cursos.alura.com.br/course/pong-javascript |
 
 ![GIF animado](https://im3.ezgif.com/tmp/ezgif-3-3fd5846604.gif)
